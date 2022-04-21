@@ -1,4 +1,21 @@
-Настройка виндовс  ( Windows settings ) 
-Настройка видео карты ( configuring the video card )
-Очистка системы ( cleaning the system )
-Кофинг делает частоту 244
+1. Настройка виндовс  ( Windows settings ) 
+
+
+
+
+
+2. Настройка видео карты ( configuring the video card )
+
+
+
+
+
+
+3. Очистка системы ( cleaning the system )
+
+
+
+
+
+
+4. Кофинг делает частоту 244
